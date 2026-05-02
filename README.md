@@ -4,5 +4,11 @@ This repository contains my homework, practical work and will be filled with new
 
 ## My projects:
 
-Homework2
-Greenshop
+- Homework2
+- Greenshop
+
+### Technologies Used:
+
+- HTML5
+- CSS3
+- GitHub
