@@ -1,13 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "Master",
-			"path": "."
-		},
-		{
-			"name": "Pictures",
-			"path": "../GREENSHOP/Pictures"
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "."
+        }
+    ]
 }
