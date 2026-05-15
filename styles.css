@@ -8,7 +8,13 @@
     src: url(./Fonts/CeraPro-Medium.ttf);
 }
 
+.container {
+    margin: 0 120px;
+}
+
 .header {
+    margin-top: 30px;
+
     display: flex;
     justify-content: space-between;
     align-items: start;
@@ -53,13 +59,12 @@
 }
 
 .main {
+    margin-top: 14px;
     display: flex;
     background: linear-gradient(98deg, rgba(245, 245, 245, 0.50) -23.46%, rgba(245, 245, 245, 0.50) 107.51%);
     justify-content: space-between;
 }
-.container {
-    margin: 44px 120px 50px;
-}
+
 .planet-text-part {
     max-width: 557px;
     margin-left: 40px;
