@@ -1,12 +1,4 @@
-@font-face {
-    font-family: 'CeraPro Regular';
-    src: url(./Fonts/CeraPro-Regular.ttf);
-}
 
-@font-face {
-    font-family: 'CeraPro Medium';
-    src: url(./Fonts/CeraPro-Medium.ttf);
-}
 
 .container {
     margin: 0 120px;

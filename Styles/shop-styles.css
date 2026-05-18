@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'CeraPro Regular';
+    src: url(/Fonts/CeraPro-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'CeraPro Medium';
+    src: url(/Fonts/CeraPro-Medium.ttf);
+}
+
+.batya {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding: 171px 107px;
+}
+
+.left {
+    max-width: 310px;
+    background: #FBFBFB;
+}
+.left-list {
+
+}
+.left-list-h3 {
+    color: #3D3D3D;
+    font-family: "CeraPro Medium";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; /* 88.889% */
+
+    margin: 14px 0 0 18px;
+}
+.left-ul-list {
+    max-width: 91px;
+    margin: 7px 0 0 30px;
+    padding-bottom: 377px;
+}
+.left-ul-list-link {
+    color: #3D3D3D;
+    font-family: "CeraPro Medium";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 40px;
+    display: inline;
+}
+.left-ul-list-active {
+    color: #46A358;
+    font-family: "CeraPro Medium";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px; /* 266.667% */
+}
+
+.left-list-img {
+
+}
+
+.right {
+    max-width: 832px;
+}
+.right-head {
+    display: flex;
+    justify-content: space-between;
+}
+.head-menu {
+    display: flex;
+    gap: 37px;
+}
+.head-menu-li {
+    color: #3D3D3D;
+    font-family: "CeraPro Regular";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 106.667% */
+
+    padding-bottom: 7px;
+}
+.head-menu-active {
+    color: #46A358;
+    font-family: "CeraPro Regular";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px; /* 106.667% */
+
+    border-bottom: solid #46A358 3px;
+}
+.right-head-sort {
+    display: flex;
+    align-items: start;
+    gap: 5px;
+}
+.right-head-sort-p {
+    color: #3D3D3D;
+    font-family: "CeraPro Regular";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px; /* 106.667% */
+}
+.right-head-sort-img {
+}
+.right-shopping-offers {
+    display: flex;
+}
+.shopping-offers-1 {
+}
+.shopping-offer {
+}
+.offer-p {
+}
+.offer-cost-p {
+}
+.shopping-offers-2 {
+}
+.shopping-offers-3 {
+}
+.numbers {
+}
+.numbers-button {
+}
+.numbers-button-active {
+}
+.numbers-button-img {
+}
+.button-img {
+}
