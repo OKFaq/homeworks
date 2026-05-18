@@ -20,7 +20,7 @@
     background: #FBFBFB;
 }
 .left-list {
-
+    color: black;
 }
 .left-list-h3 {
     color: #3D3D3D;
@@ -56,7 +56,7 @@
 }
 
 .left-list-img {
-
+    color: black;
 }
 
 .right {
@@ -104,29 +104,41 @@
     line-height: 16px; /* 106.667% */
 }
 .right-head-sort-img {
+    color: black;
 }
 .right-shopping-offers {
     display: flex;
 }
 .shopping-offers-1 {
+    color: black;
 }
 .shopping-offer {
+    color: black;
 }
 .offer-p {
+    color: black;
 }
 .offer-cost-p {
+    color: black;
 }
 .shopping-offers-2 {
+    color: black;
 }
 .shopping-offers-3 {
+    color: black;
 }
 .numbers {
+    color: black;
 }
 .numbers-button {
+    color: black;
 }
 .numbers-button-active {
+    color: black;
 }
 .numbers-button-img {
+    color: black;
 }
 .button-img {
+    color: black;
 }
