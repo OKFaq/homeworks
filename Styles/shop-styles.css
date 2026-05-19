@@ -19,9 +19,6 @@
     max-width: 310px;
     background: #FBFBFB;
 }
-.left-list {
-    color: black;
-}
 .left-list-h3 {
     color: #3D3D3D;
     font-family: "CeraPro Medium";
@@ -54,11 +51,6 @@
     font-weight: 700;
     line-height: 40px; /* 266.667% */
 }
-
-.left-list-img {
-    color: black;
-}
-
 .right {
     max-width: 832px;
 }
@@ -115,9 +107,6 @@
 .shopping-offers-1 {
     display: flex;
     gap: 33px;
-}
-.shopping-offer {
-    color: black;
 }
 .shopping-offers-img-div {
     background: #FBFBFB;
@@ -197,7 +186,10 @@
     padding: 9px;
     border-radius: 4px;
     border: 1px solid #E5E5E5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .button-img {
-    color: black;
+    max-width: 18px;
 }
