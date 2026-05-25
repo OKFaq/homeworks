@@ -26,13 +26,12 @@
     font-style: normal;
     font-weight: 700;
     line-height: 16px; /* 88.889% */
+    display: inline-block;
 
-    margin: 14px 0 0 18px;
+    padding: 14px 199px 7px 18px;
 }
 .left-ul-list {
-    max-width: 91px;
-    margin: 7px 0 0 30px;
-    padding-bottom: 377px;
+    padding: 7px 189px 377px 30px;
 }
 .left-ul-list-link {
     color: #3D3D3D;
@@ -57,7 +56,7 @@
 .right-head {
     display: flex;
     justify-content: space-between;
-    margin-bottom: 31px;
+    padding-bottom: 31px;
 }
 .head-menu {
     display: flex;
@@ -124,7 +123,7 @@
 }
 
 .offer-p {
-    margin-top: 12px;
+    padding-top: 12px;
     color: #3D3D3D;
     font-family: "CeraPro Regular";
     font-size: 16px;
@@ -133,7 +132,7 @@
     line-height: 16px; /* 100% */
 }
 .offer-cost-p {
-    margin-top: 6px;
+    padding-top: 6px;
     color: #46A358;
     font-family: "CeraPro Regular";
     font-size: 18px;
