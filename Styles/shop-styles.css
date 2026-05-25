@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'CeraPro Regular';
-    src: url(/Fonts/CeraPro-Regular.ttf);
+    src: url('../Fonts/CeraPro-Regular.ttf');
 }
 
 @font-face {
     font-family: 'CeraPro Medium';
-    src: url(/Fonts/CeraPro-Medium.ttf);
+    src: url('../Fonts/CeraPro-Medium.ttf');
 }
 
 .batya {

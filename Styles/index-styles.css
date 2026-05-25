@@ -8,16 +8,6 @@
     src: url('../Fonts/CeraPro-Medium.ttf');
 }
 
-@font-face {
-    font-family: 'CeraPro Bold';
-    src: url('../Fonts/CeraPro-Bold.ttf');
-}
-
-@font-face {
-    font-family: 'CeraPro Black';
-    src: url('../Fonts/CeraPro-Black.ttf');
-}
-
 .container {
     padding: 30px 120px;
 }
