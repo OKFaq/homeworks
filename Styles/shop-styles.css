@@ -8,6 +8,11 @@
     src: url('../Fonts/CeraPro-Medium.ttf');
 }
 
+@font-face {
+    font-family: 'CeraPro Bold';
+    src: url('../Fonts/CeraPro-Bold.ttf');
+}
+
 .batya {
     display: flex;
     gap: 50px;
@@ -21,7 +26,7 @@
 }
 .left-list-h3 {
     color: #3D3D3D;
-    font-family: "CeraPro Medium";
+    font-family: "CeraPro Bold";
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -35,7 +40,7 @@
 }
 .left-ul-list-link {
     color: #3D3D3D;
-    font-family: "CeraPro Medium";
+    font-family: "CeraPro Regular";
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
@@ -44,7 +49,7 @@
 }
 .left-ul-list-active {
     color: #46A358;
-    font-family: "CeraPro Medium";
+    font-family: "CeraPro Bold";
     font-size: 15px;
     font-style: normal;
     font-weight: 700;
@@ -74,7 +79,7 @@
 }
 .head-menu-active {
     color: #46A358;
-    font-family: "CeraPro Regular";
+    font-family: "CeraPro Bold";
     font-size: 15px;
     font-style: normal;
     font-weight: 700;
@@ -134,7 +139,7 @@
 .offer-cost-p {
     padding-top: 6px;
     color: #46A358;
-    font-family: "CeraPro Regular";
+    font-family: "CeraPro Bold";
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
@@ -175,7 +180,7 @@
     border: 1px solid #E5E5E5;
     border-radius: 4px;
     color: #FFF;
-    font-family: "CeraPro Regular";
+    font-family: "CeraPro Bold";
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
