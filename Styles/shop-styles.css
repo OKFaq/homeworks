@@ -115,7 +115,63 @@
 .shopping-offers-img-div {
     background: #FBFBFB;
     padding: 31px 4px 19px;
+    position: relative;
 }
+
+.shopping-offers-hover {
+    display: none;
+    position: absolute;
+    bottom: 7px;
+    left: 67px;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.shopping-offers-hover-svg1-div {
+    padding: 8px;
+    background: #FFF;
+    border-radius: 4px;
+}
+.shopping-offers-hover-svg1 {
+    fill: #000000;
+}
+.shopping-offers-hover-svg2-div {
+    padding: 8px;
+    background: #FFF;
+    border-radius: 4px;
+}
+.shopping-offers-hover-svg2 {
+    fill: #000000;
+}
+.shopping-offers-hover-svg3-div {
+    padding: 8px;
+    background: #FFF;
+    border-radius: 4px;
+}
+.shopping-offers-hover-svg3 {
+    fill: #000000;
+}
+
+.shopping-offers-img-div:hover .shopping-offers-hover {
+    display: flex;
+}
+
+.shopping-offers-img-div:hover {
+    border-top: 1px solid #46A358;
+}
+
+.shopping-offers-hover-svg1:hover {
+    fill: #46A358;
+}
+.shopping-offers-hover-svg2:hover {
+    fill: #46A358;
+}
+.shopping-offers-hover-svg3:hover {
+    fill: #46A358;
+}
+
+
 .shopping-offers-img {
     max-width: 250px;
     max-height: 250px;
