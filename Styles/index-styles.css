@@ -71,6 +71,8 @@
     display: flex;
     background: linear-gradient(98deg, rgba(245, 245, 245, 0.50) -23.46%, rgba(245, 245, 245, 0.50) 107.51%);
     justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 .planet-text-part {
