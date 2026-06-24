@@ -759,6 +759,7 @@
 }
 
 .footer {
+    margin-bottom: 13px;
 }
 .footer-part-top {
     display: flex;
@@ -920,9 +921,9 @@
     justify-content: space-between;
     border-bottom: 1px rgba(70, 163, 88, 0.20) solid;
     background: #FBFBFB;
+    margin-bottom: 7px;
 }
-.footer-part-bottom {
-}
+
 .footer-part-bottom-h3 {
     color: #3D3D3D;
     font-family: "CeraPro Bold";
@@ -932,8 +933,7 @@
     line-height: 16px; /* 88.889% */
     margin-bottom: 8px;
 }
-.footer-part-bottom-ul {
-}
+
 .bottom-ul-li {
     color: #3D3D3D;
     font-family: "CeraPro Regular";
@@ -942,8 +942,7 @@
     font-weight: 400;
     line-height: 30px; /* 214.286% */
 }
-.footer-part-bottom-media {
-}
+
 .bottom-media-h3 {
     color: #3D3D3D;
     font-family: "CeraPro Bold";
